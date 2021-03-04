@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+  
+}
+body {
+ background-color: rgb(92, 7, 7);  
+ padding: 0;
+ margin: 0;
+ border: 0;
+ border-radius: 0;
+
+}
+
+#header-nav{
+  background-color: rgb(235, 183, 14);
+ 
+}
+
+#logo-img{
+  background:url(/images/logo.jpg) no-repeat ;
+  width: 108px;
+  height: 48px;
+  margin: 10px 10px 10px 0px;
+}
+
+.navbar-brand a{
+  text-decoration: none;
+  color: brown;
+
+ 
+
+}
+
+.navbar-brand a:hover{
+  text-decoration: none;
+  color: white;
+
+ 
+
+}
+
