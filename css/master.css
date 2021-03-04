@@ -1,9 +1,9 @@
 *{
   box-sizing: border-box;
-  
+
 }
 body {
- background-color: rgb(92, 7, 7);  
+ background-color: rgb(92, 7, 7);
  padding: 0;
  margin: 0;
  border: 0;
@@ -13,7 +13,7 @@ body {
 
 #header-nav{
   background-color: rgb(235, 183, 14);
- 
+
 }
 
 #logo-img{
@@ -27,7 +27,7 @@ body {
   text-decoration: none;
   color: brown;
 
- 
+
 
 }
 
@@ -35,7 +35,6 @@ body {
   text-decoration: none;
   color: white;
 
- 
+
 
 }
-
